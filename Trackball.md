@@ -1,6 +1,6 @@
 ---
 author: "Xyma Athanasia 1022257"
-title: "Trackball (1990)"
+title: "Trackball (90s)"
 image_url: "trackball.jpg"
 caption: >
   Η ιχνοσφαίρα (trackball) είναι μια σημαντική συσκευή εισόδου/δείκτη και
